@@ -1,0 +1,17 @@
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\bin\Debug\ZbW.Testing.MathExtended.Library.UnitTests.dll
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\bin\Debug\ZbW.Testing.MathExtended.Library.UnitTests.pdb
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\bin\Debug\nunit.framework.dll
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\bin\Debug\ZbW.Testing.MathExtended.Library.dll
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\bin\Debug\ZbW.Testing.MathExtended.Library.pdb
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\bin\Debug\nunit.framework.pdb
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\bin\Debug\nunit.framework.xml
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\obj\Debug\ZbW.Testing.MathExtended.Library.UnitTests.csprojAssemblyReference.cache
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\obj\Debug\ZbW.Testing.MathExtended.Library.UnitTests.csproj.CoreCompileInputs.cache
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\obj\Debug\ZbW.Testing.MathExtended.Library.UnitTests.csproj.CopyComplete
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\obj\Debug\ZbW.Testing.MathExtended.Library.UnitTests.dll
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\obj\Debug\ZbW.Testing.MathExtended.Library.UnitTests.pdb
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\bin\Debug\NUnit3.TestAdapter.dll
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\bin\Debug\nunit.engine.dll
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\bin\Debug\nunit.engine.api.dll
+D:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\ZbW.Testing.MathExtended.Library.UnitTests\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
