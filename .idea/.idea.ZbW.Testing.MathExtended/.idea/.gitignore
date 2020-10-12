@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.ZbW.Testing.MathExtended.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\ZbW\4_Semester\Software\ZbW.Testing\ZbW.Testing.MathExtended-master\ZbW.Testing.MathExtended_Loesung\Math_Extended\.idea\.idea.ZbW.Testing.MathExtended\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

@@ -28,7 +28,7 @@
             var result = basicOperation.Division(100, 5);
 
             // assert
-            Assert.That(result, Is.EqualTo(20));
+            Assert.That(result, Is.EqualTo(25));
         }
 
         [Test]
